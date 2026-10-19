@@ -1,0 +1,8 @@
+{
+  "name": "Flashcard Maker",
+  "description": "Interactive AI-powered flashcards with light green cards and single-card turnover logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
